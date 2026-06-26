@@ -18,7 +18,7 @@ def games_engine(get_question_and_answer, description):
             correct_answer_count += 1
         else:
             print(f"'{user_answer}' is wrong ;(. Correct answer was {correct_answer}")
-            print(f"Let's try again, {name}")
+            print(f"Let's try again, {name}!")
             break
         
     if correct_answer_count == 3:
