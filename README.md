@@ -6,3 +6,4 @@
 [![asciicast](https://asciinema.org/a/tHuAkkU0ONUvxeyW.svg)](https://asciinema.org/a/tHuAkkU0ONUvxeyW)
 [![asciicast](https://asciinema.org/a/GICWlnGphDR3wBdm.svg)](https://asciinema.org/a/GICWlnGphDR3wBdm)
 [![asciicast](https://asciinema.org/a/N9NpScaM3rEh8pL9.svg)](https://asciinema.org/a/N9NpScaM3rEh8pL9)
+[![hello_world](https://github.com/DusikINDusik/python-project-49/actions/workflows/hello-world.yml/badge.svg)](https://github.com/DusikINDusik/python-project-49/actions/workflows/hello-world.yml)
